@@ -2,7 +2,7 @@
 
 **NAME:** A.D.SANDEEP KUMAR <br>
 
-**COLLEGE:** M.V.G.R college of engineering<br>
+**COLLEGE:** [M.V.G.R college of engineering](http://www.mvgrce.com/)<br>
 
 ## MY PROJECT
 
