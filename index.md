@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+#                                                        WELCOME TO MY PAGE
 
-You can use the [editor on GitHub](https://github.com/sandeep11821kumar/sandeep94948.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**NAME:** A.D.SANDEEP KUMAR <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**COLLEGE:** M.V.G.R college of engineering<br>
 
-### Markdown
+## MY PROJECT
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**IoT on AUTOMOBILE** 
 
-```markdown
-Syntax highlighted code block
+For providing real time assistance, one should continuously collect data and feed it to the designed model and analyze whether the obtained attributes are within the limits and predict its failure. From the obtained data one can continuously monitor the vehicle conditions through visualization and prevent it from failures with the help of digital twin.<br>
 
-# Header 1
-## Header 2
-### Header 3
+**METHODOLOGY:**<br>
+- [x] Identification of sample part(roll-cage)
 
-- Bulleted
-- List
+- [x] Modeling of the part
 
-1. Numbered
-2. List
+- [x] Analysis of the part with theoretical or assumed loading condition
 
-**Bold** and _Italic_ and `Code` text
+- [x] Selection of suitable sensors and attributes of measurement in sampling
 
-[Link](url) and ![Image](src)
-```
+- [ ] Integration of sensors to the part
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [ ] Collecting the data by developing IOT module and interfacing with the model and analyzing with obtained data
 
-### Jekyll Themes
+- [ ] Comparing the results to create a digital twin
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sandeep11821kumar/sandeep94948.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [ ] Creating a virtual model which continuously obtain data from the cloud and continuously show the influence of the attributes on the model.
 
-### Support or Contact
+- [ ] If possible development of an app to visualize the condition of the vehicle 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Contact Details:
+ Phone Number: 9494****17<br>
+ Email: sandeepkumar11821@gmail.com<br>
+ [Facebook Profile](https://www.facebook.com/profile.php?id=100007770851328&ref=bookmarks)
